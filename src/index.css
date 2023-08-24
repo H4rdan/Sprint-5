@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#root {
+    background-color: hsl(218, 28%, 13%);
+}
+
+h2 {
+    font-family: 'Raleway', sans-serif;
+    font-weight: 700;
+    color: white;
+}
+
+h3 {
+    font-family: 'Raleway', sans-serif;
+    font-weight: 700;
+    color: white;
+}
+
+ul {
+    font-family: 'Open Sans', sans-serif;
+    color: white;
+}
+
+p {
+    font-family: 'Open Sans', sans-serif;
+    color: white;
+    font-weight: 300;
+}
